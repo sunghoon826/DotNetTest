@@ -1,16 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\Study\\RedPlus\\",
+  "WorkspaceRootPath": "D:\\repos\\DotNetTest\\RedPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5E00487-47B6-41DA-8C16-3BEB988A6074}|..\\RedPlus.WebApp\\RedPlus.WebApp.csproj|d:\\repos\\study\\redplus.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|d:\\repos\\dotnettest\\redplus\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|d:\\repos\\study\\redplus\\wwwroot\\staticfile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C5E00487-47B6-41DA-8C16-3BEB988A6074}|..\\RedPlus.WebApp\\RedPlus.WebApp.csproj|d:\\repos\\dotnettest\\redplus.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Study\\RedPlus.WebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|d:\\repos\\dotnettest\\redplus\\wwwroot\\staticfile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|solutionrelative:wwwroot\\staticfile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|d:\\repos\\study\\redplus\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|d:\\repos\\dotnettest\\redplus\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4B2865A8-6950-477B-8843-29DFD3AA4B32}|RedPlus.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -21,46 +28,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StaticFile.html",
-              "DocumentMoniker": "D:\\repos\\Study\\RedPlus\\wwwroot\\StaticFile.html",
-              "RelativeDocumentMoniker": "wwwroot\\StaticFile.html",
-              "ToolTip": "D:\\repos\\Study\\RedPlus\\wwwroot\\StaticFile.html",
-              "RelativeToolTip": "wwwroot\\StaticFile.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2023-11-17T07:16:11.151Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\DotNetTest\\RedPlus\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\repos\\DotNetTest\\RedPlus\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T02:11:07.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\Study\\RedPlus.WebApp\\Program.cs",
+              "DocumentMoniker": "D:\\repos\\DotNetTest\\RedPlus.WebApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\RedPlus.WebApp\\Program.cs",
-              "ToolTip": "D:\\repos\\Study\\RedPlus.WebApp\\Program.cs",
+              "ToolTip": "D:\\repos\\DotNetTest\\RedPlus.WebApp\\Program.cs",
               "RelativeToolTip": "..\\RedPlus.WebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-17T07:13:24.897Z",
+              "WhenOpened": "2023-11-30T01:04:33.764Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticFile.html",
+              "DocumentMoniker": "D:\\repos\\DotNetTest\\RedPlus\\wwwroot\\StaticFile.html",
+              "RelativeDocumentMoniker": "wwwroot\\StaticFile.html",
+              "ToolTip": "D:\\repos\\DotNetTest\\RedPlus\\wwwroot\\StaticFile.html",
+              "RelativeToolTip": "wwwroot\\StaticFile.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2023-11-17T07:16:11.151Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Study\\RedPlus.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\RedPlus.WebApp\\Program.cs",
+              "ToolTip": "D:\\repos\\Study\\RedPlus.WebApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\Study\\RedPlus.WebApp\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T07:13:24.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\repos\\Study\\RedPlus\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\repos\\DotNetTest\\RedPlus\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\repos\\Study\\RedPlus\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\repos\\DotNetTest\\RedPlus\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2023-11-17T07:11:43.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-17T07:11:43.093Z"
             }
           ]
         }

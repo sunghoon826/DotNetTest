@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NFZD72Jl5eXrVy2dsMs/LycjrFsSpBCPQvV7GgnCz+iIVh1uPyYDBqe4w1c3bCN6+oEznOJWIw+iVneMVvv+xw==",
+  "dgSpecHash": "IuumpBeCUjHwcTegmWosIES4XhKT8HJU+uJZIIyMwbhpgrNHaw4ue8Xkr6/2W/GsAfegy+5n5b0FA6gQcFOuXw==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Study\\RedPlus\\RedPlus.csproj",
+  "projectFilePath": "D:\\repos\\DotNetTest\\RedPlus\\RedPlus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

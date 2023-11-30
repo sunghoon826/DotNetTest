@@ -9,47 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RedPlus
 build_property.RootNamespace = RedPlus
-build_property.ProjectDir = D:\repos\Study\RedPlus\
+build_property.ProjectDir = D:\repos\DotNetTest\RedPlus\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\repos\Study\RedPlus
+build_property.MSBuildProjectDirectory = D:\repos\DotNetTest\RedPlus
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/repos/Study/RedPlus/Pages/Creator.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/DotNetTest/RedPlus/Pages/Creator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/Error.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/Index.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/Privacy.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/Version.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/Version.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyc2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/_ViewImports.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/_ViewStart.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Study/RedPlus/Pages/Shared/_Layout.cshtml]
+[D:/repos/DotNetTest/RedPlus/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8k0f7e6m69

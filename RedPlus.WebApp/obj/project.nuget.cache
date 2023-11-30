@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYih3BLip46uRRD2Z5xFTI4DFWwUejTUKfVF4Hl4jxK4MXkJfGnnppVJueqpK3WgUlhdbO74el0isExXfPqJyA==",
+  "dgSpecHash": "QV3eTUfMyP37VyjJlFEfHL7OD0QMCmzlQ20TiIgBv2pKCdsS/ccN5AMoet+OwAm7Dl59iY9SlZ/a6d0K5/oJPQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Study\\RedPlus.WebApp\\RedPlus.WebApp.csproj",
+  "projectFilePath": "D:\\repos\\DotNetTest\\RedPlus.WebApp\\RedPlus.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

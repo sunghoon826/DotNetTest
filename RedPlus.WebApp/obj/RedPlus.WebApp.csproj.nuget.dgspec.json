@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\Study\\RedPlus.WebApp\\RedPlus.WebApp.csproj": {}
+    "D:\\repos\\DotNetTest\\RedPlus.WebApp\\RedPlus.WebApp.csproj": {}
   },
   "projects": {
-    "D:\\repos\\Study\\RedPlus.WebApp\\RedPlus.WebApp.csproj": {
+    "D:\\repos\\DotNetTest\\RedPlus.WebApp\\RedPlus.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Study\\RedPlus.WebApp\\RedPlus.WebApp.csproj",
+        "projectUniqueName": "D:\\repos\\DotNetTest\\RedPlus.WebApp\\RedPlus.WebApp.csproj",
         "projectName": "RedPlus.WebApp",
-        "projectPath": "D:\\repos\\Study\\RedPlus.WebApp\\RedPlus.WebApp.csproj",
+        "projectPath": "D:\\repos\\DotNetTest\\RedPlus.WebApp\\RedPlus.WebApp.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Study\\RedPlus.WebApp\\obj\\",
+        "outputPath": "D:\\repos\\DotNetTest\\RedPlus.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
