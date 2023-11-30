@@ -1,0 +1,22 @@
+html {
+    font-size: 14px; /*wwwroot는 정적인 HTML, CSS, JavaScript 페이지.  program .cs에 app.UseStaticFiles(); 메서드를 추가해야함*/
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
